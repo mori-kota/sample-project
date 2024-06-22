@@ -1,0 +1,1 @@
+console.log("これは main.js です。");
